@@ -1,0 +1,15 @@
+H:\Visual Studio\WordsWithAqa\WordsWithAqa\bin\Debug\WordsWithAqa.exe.config
+H:\Visual Studio\WordsWithAqa\WordsWithAqa\bin\Debug\WordsWithAqa.exe
+H:\Visual Studio\WordsWithAqa\WordsWithAqa\bin\Debug\WordsWithAqa.pdb
+H:\Visual Studio\WordsWithAqa\WordsWithAqa\obj\Debug\WordsWithAqa.csprojResolveAssemblyReference.cache
+H:\Visual Studio\WordsWithAqa\WordsWithAqa\obj\Debug\WordsWithAqa.exe
+H:\Visual Studio\WordsWithAqa\WordsWithAqa\obj\Debug\WordsWithAqa.pdb
+H:\Year 13\Pre-Release Lessons\WordsWithAqa_Distribution\WordsWithAqa\bin\Debug\WordsWithAqa.exe.config
+H:\Year 13\Pre-Release Lessons\WordsWithAqa_Distribution\WordsWithAqa\obj\Debug\WordsWithAqa.exe
+H:\Year 13\Pre-Release Lessons\WordsWithAqa_Distribution\WordsWithAqa\obj\Debug\WordsWithAqa.pdb
+H:\Year 13 Computer Science\PRE RELEASE 2018\WordsWithAqa_JAZZ\WordsWithAqa\bin\Debug\WordsWithAqa.exe.config
+H:\Year 13 Computer Science\PRE RELEASE 2018\WordsWithAqa_JAZZ\WordsWithAqa\obj\Debug\WordsWithAqa.exe
+H:\Year 13 Computer Science\PRE RELEASE 2018\WordsWithAqa_JAZZ\WordsWithAqa\obj\Debug\WordsWithAqa.pdb
+H:\Year 13 Computer Science\PRE RELEASE 2018\WordsWithAqa_JAZZ\WordsWithAqa\bin\Debug\WordsWithAqa.exe
+H:\Year 13 Computer Science\PRE RELEASE 2018\WordsWithAqa_JAZZ\WordsWithAqa\bin\Debug\WordsWithAqa.pdb
+H:\Year 13 Computer Science\PRE RELEASE 2018\WordsWithAqa_JAZZ\WordsWithAqa\obj\Debug\WordsWithAqa.csprojResolveAssemblyReference.cache
