@@ -1,1 +1,0 @@
-# WordsWithAQA_PRELIM2018
